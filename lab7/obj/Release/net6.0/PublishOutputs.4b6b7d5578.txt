@@ -1,0 +1,14 @@
+C:\Users\yangb\Documents\yangbing\code\c#\lab7\lab7\obj\Release\net6.0\PubTmp\Out\Data\restaurant_reviews.xml
+C:\Users\yangb\Documents\yangbing\code\c#\lab7\lab7\obj\Release\net6.0\PubTmp\Out\lab7.exe
+C:\Users\yangb\Documents\yangbing\code\c#\lab7\lab7\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+C:\Users\yangb\Documents\yangbing\code\c#\lab7\lab7\obj\Release\net6.0\PubTmp\Out\appsettings.json
+C:\Users\yangb\Documents\yangbing\code\c#\lab7\lab7\obj\Release\net6.0\PubTmp\Out\lab7.dll
+C:\Users\yangb\Documents\yangbing\code\c#\lab7\lab7\obj\Release\net6.0\PubTmp\Out\lab7.deps.json
+C:\Users\yangb\Documents\yangbing\code\c#\lab7\lab7\obj\Release\net6.0\PubTmp\Out\lab7.runtimeconfig.json
+C:\Users\yangb\Documents\yangbing\code\c#\lab7\lab7\obj\Release\net6.0\PubTmp\Out\lab7.pdb
+C:\Users\yangb\Documents\yangbing\code\c#\lab7\lab7\obj\Release\net6.0\PubTmp\Out\Microsoft.Owin.dll
+C:\Users\yangb\Documents\yangbing\code\c#\lab7\lab7\obj\Release\net6.0\PubTmp\Out\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\yangb\Documents\yangbing\code\c#\lab7\lab7\obj\Release\net6.0\PubTmp\Out\Microsoft.Owin.Security.dll
+C:\Users\yangb\Documents\yangbing\code\c#\lab7\lab7\obj\Release\net6.0\PubTmp\Out\Microsoft.Owin.Security.OAuth.dll
+C:\Users\yangb\Documents\yangbing\code\c#\lab7\lab7\obj\Release\net6.0\PubTmp\Out\Newtonsoft.Json.dll
+C:\Users\yangb\Documents\yangbing\code\c#\lab7\lab7\obj\Release\net6.0\PubTmp\Out\Owin.dll

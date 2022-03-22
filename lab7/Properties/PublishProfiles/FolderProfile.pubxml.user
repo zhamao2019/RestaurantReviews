@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\Algonquin\PersonsServiceApi</_PublishTargetUrl>
+    <History>True|2022-03-18T16:28:01.2319202Z;True|2022-03-18T10:45:48.9314523-04:00;True|2022-03-17T20:54:56.5992969-04:00;True|2022-03-17T19:53:43.7128097-04:00;True|2022-03-17T19:49:50.3217522-04:00;True|2022-03-17T19:32:13.2263301-04:00;False|2022-03-17T19:27:31.7733203-04:00;True|2022-03-17T19:03:18.4715044-04:00;True|2022-03-17T18:42:08.2631942-04:00;True|2022-03-17T18:28:10.0871179-04:00;True|2022-03-17T17:37:11.3999544-04:00;True|2022-03-17T17:16:05.3595808-04:00;True|2022-03-17T15:00:23.2226470-04:00;</History>
+  </PropertyGroup>
+</Project>
